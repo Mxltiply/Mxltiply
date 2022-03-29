@@ -1,4 +1,4 @@
-## Hi there 👋 The name's MD or Mxltipy
+## Hi there 👋 The name's MD or Mxltiply
 ### Been learning programming for the past year now, currently at the beginner / intermediate level.
 
 Interested in back-end.
