@@ -2,14 +2,14 @@
 ### Been learning programming for the past year now, currently at the beginner / intermediate level.
 
 Interested in back-end.
-From United States 🇺🇸
+From the United States 💪
+
 
 - 🔭 I’m currently working on an arcade!
-- 
-- 🌱 I’m currently learning Python, JS, & C# 
-- 
-- 📫 How to reach me: My Discord is: `DevFire™#3515`
+- 🌱 I’m learning Python, JS, & C# 
+- 📫 How to reach me: 
+My Discord is: `DevFire™#3515`
+My 
+- ⚡ Fun fact: I am attempting to become a "basketball virtuoso!" 
 
-- ⚡ Fun fact: ... Basketball is baller!
-
---> Thank you for visiting!
+--> Thank you for visiting! 
