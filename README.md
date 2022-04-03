@@ -9,6 +9,6 @@ From the United States 💪
 - 🌱 I’m learning Python, JS, & C# 
 - 📫 How to reach me: 
 My Discord is: `DevFire™#3515`
-- ⚡ Fun fact: I am attempting to become a "basketball virtuoso!" 
+- ⚡ Fun fact: I'm also doing game development in Unity!
 
 --> Thank you for visiting! 
