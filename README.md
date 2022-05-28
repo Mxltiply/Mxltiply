@@ -6,7 +6,7 @@ From the United States 💪
 
 
 - 🔭 I’m currently working on an arcade!
-- 🌱 I’m learning Python, JS, & C# 
+- 🌱 I’m learning Python
 - 📫 How to reach me: 
 My Discord is: `DevFire™#3515`
 - ⚡ Fun fact: I'm also doing game development in Unity!
