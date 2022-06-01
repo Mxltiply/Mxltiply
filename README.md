@@ -6,7 +6,7 @@ From the United States 💪
 
 
 - 🔭 I’m currently working on a discord bot!
-- 🌱 I’m learning Python
+- 🌱 I’m learning Python and some C#
 - ⚡ Fun fact: I'm also doing game development in Unity!
 
 --> Thank you for visiting! 
